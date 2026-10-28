@@ -1,0 +1,7 @@
+--library hbitsy
+
+-C test
+
+-m Main
+
+--interp

@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    {
+      "name": "hbitsy",
+      "path": ".",
+      "type": "dev"
+    }
+  ]
+}
